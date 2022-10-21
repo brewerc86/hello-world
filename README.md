@@ -1,2 +1,5 @@
-# hello-world
- hello-world repository exercise for 604B
+About me.
+
+Hello I am Corey Brewer.
+I play Ice hockey, have two dogs and live in Baltimore, Maryland.
+I am excited to being  604B. 
